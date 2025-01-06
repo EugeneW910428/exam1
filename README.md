@@ -1,5 +1,5 @@
 
-# BackendExamHub Submission
+# BackendExam Submission
 
 ## Project Structure
 ```
