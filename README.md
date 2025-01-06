@@ -19,7 +19,7 @@ BackendExamHub/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/EugeneW910428/exam1.git
    ```
 
 2. Open `BackendExamHub.sln` in Visual Studio.
