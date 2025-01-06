@@ -3,7 +3,6 @@
 
 ## Project Structure
 ```
-BackendExamHub/
 ├── Controllers/
 │   └── Myoffice_ACPDController.cs
 ├── SQL/
